@@ -1,4 +1,4 @@
-### Hi there, how ypu doing?
+### Hi there, how you doing?
 
 <!--
 **ishikagoyal02/ishikagoyal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

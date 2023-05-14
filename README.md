@@ -6,4 +6,5 @@
 - 💬 Ask me about my motivation
 - 📫 How to reach me:  https://www.linkedin.com/in/ishika-goyal-375112221/
 - 😄 Pronouns: she\her
+- https://linktr.ee/ishi02
 

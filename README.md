@@ -1,4 +1,4 @@
-### Hi there, how you doing?
+### Hi there, how are you doing?
 
 - 🔭 I’m currently pursuing Btech (Computer Science) from Banasthali Vidhyapith, Jaipur
 - 🌱 I’m currently learning DSA | C++
